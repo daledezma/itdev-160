@@ -1,5 +1,2 @@
 # ITDEV-160 Repository
-This is a sample repository for the ITDEV160 course. 
-
-Hello World!
-
+This is a repository for the Web Programming with JavaScript course.
